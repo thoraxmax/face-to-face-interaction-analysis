@@ -1,0 +1,1 @@
+.DS_Store\n__pycache__/\n*.pyc\n*.pyo\n.pytest_cache/\n.vscode/\n.idea/\n*.egg-info/\ndist/\nbuild/
